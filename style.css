@@ -1,0 +1,11 @@
+h1 {
+	color: red;
+	font-weight: bold;
+	text-align: center;
+	border: solid rgba(0, 0, 255, 0.2);
+
+}
+body {
+	background-image: url(https://media.gettyimages.com/photos/cassius-clay-20-year-old-heavyweight-contender-from-louisville-poses-picture-id480938020?k=20&m=480938020&s=612x612&w=0&h=2QTSh5AwItYsvgqGosNP--lk62EoFiz5bdLn5NIR9BY=);
+	background-size: cover;
+}

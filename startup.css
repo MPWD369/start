@@ -1,0 +1,44 @@
+body,
+html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Playfair Display', serif;
+    background: url(header.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+    color: whitesmoke;
+}
+.btn{
+    border-radius:300px;
+    font-weight: 700;
+}
+.btn-success{
+    background-color: darkgrey;
+    border-color: darkgrey;
+
+}
+.btn-success:hover{
+    background-color: darkgrey;
+    border-width: 7px;
+    border-color: black;
+}
+hr{
+    margin: 20px auto;
+    color: darkred;
+    border: 3px solid red;
+    max-width: 63px;
+    opacity: 1;
+}
+.buffer{
+    height: 5.5rem;
+
+}
+
+
+
+
